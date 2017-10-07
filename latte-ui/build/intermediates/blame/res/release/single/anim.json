@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\10ad6d098e8ff0a015c2522bd9a627f64a35caeb\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\pop_exit_no_anim.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\2b6d8825ef3d957276c8e0ef000d6cf8c4d43d1f\\output\\res\\anim\\pop_exit_no_anim.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\h_fragment_pop_enter.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\2b6d8825ef3d957276c8e0ef000d6cf8c4d43d1f\\output\\res\\anim\\h_fragment_pop_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\78d9dcf976a89e3ae39cc6f137644dbfdd62dc78\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\10ad6d098e8ff0a015c2522bd9a627f64a35caeb\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\ucrop_loader_circle_path.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\4097ae931ef9786e0b1740bfe8b46b08b4bbaf26\\output\\res\\anim\\ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\h_fragment_pop_exit.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\2b6d8825ef3d957276c8e0ef000d6cf8c4d43d1f\\output\\res\\anim\\h_fragment_pop_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\10ad6d098e8ff0a015c2522bd9a627f64a35caeb\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\10ad6d098e8ff0a015c2522bd9a627f64a35caeb\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\78d9dcf976a89e3ae39cc6f137644dbfdd62dc78\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\78d9dcf976a89e3ae39cc6f137644dbfdd62dc78\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\78d9dcf976a89e3ae39cc6f137644dbfdd62dc78\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\push_bottom_out.xml",
+        "source": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-core\\build\\intermediates\\bundles\\default\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\10ad6d098e8ff0a015c2522bd9a627f64a35caeb\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\ucrop_loader_circle_scale.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\4097ae931ef9786e0b1740bfe8b46b08b4bbaf26\\output\\res\\anim\\ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\push_bottom_in.xml",
+        "source": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-core\\build\\intermediates\\bundles\\default\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\v_fragment_enter.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\2b6d8825ef3d957276c8e0ef000d6cf8c4d43d1f\\output\\res\\anim\\v_fragment_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\v_fragment_pop_enter.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\2b6d8825ef3d957276c8e0ef000d6cf8c4d43d1f\\output\\res\\anim\\v_fragment_pop_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\78d9dcf976a89e3ae39cc6f137644dbfdd62dc78\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\78d9dcf976a89e3ae39cc6f137644dbfdd62dc78\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\v_fragment_pop_exit.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\2b6d8825ef3d957276c8e0ef000d6cf8c4d43d1f\\output\\res\\anim\\v_fragment_pop_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\78d9dcf976a89e3ae39cc6f137644dbfdd62dc78\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\78d9dcf976a89e3ae39cc6f137644dbfdd62dc78\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\no_anim.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\2b6d8825ef3d957276c8e0ef000d6cf8c4d43d1f\\output\\res\\anim\\no_anim.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\v_fragment_exit.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\2b6d8825ef3d957276c8e0ef000d6cf8c4d43d1f\\output\\res\\anim\\v_fragment_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\10ad6d098e8ff0a015c2522bd9a627f64a35caeb\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\h_fragment_exit.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\2b6d8825ef3d957276c8e0ef000d6cf8c4d43d1f\\output\\res\\anim\\h_fragment_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\h_fragment_enter.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\2b6d8825ef3d957276c8e0ef000d6cf8c4d43d1f\\output\\res\\anim\\h_fragment_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\78d9dcf976a89e3ae39cc6f137644dbfdd62dc78\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-ui\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\78d9dcf976a89e3ae39cc6f137644dbfdd62dc78\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-core\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\78d9dcf976a89e3ae39cc6f137644dbfdd62dc78\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-core\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\78d9dcf976a89e3ae39cc6f137644dbfdd62dc78\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-core\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\78d9dcf976a89e3ae39cc6f137644dbfdd62dc78\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project (4)\\e1bnjn\\latte-core\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\78d9dcf976a89e3ae39cc6f137644dbfdd62dc78\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
